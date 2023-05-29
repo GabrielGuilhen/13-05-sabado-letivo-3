@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	     real nota1 = 90.3
+	     real nota2 = 93.4
+	     real nota3 = 86.5
+	     real nota4 = 79.8
+
+		escreva("A media das 4 notas deram... \n")
+		escreva(nota1, nota2, nota3,nota4/4)
+		
+	}
+}
