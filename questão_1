@@ -1,0 +1,23 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		
+	
+
+		
+		escreva("Bem Vindo a Loja LivrosLegais.com, oque você precisa? \n")
+		escreva(" O total com Harry Potter e a Pedra Filosofal: R$ 26,90 \n")
+          escreva(" Harry Potter e a Câmara dos Segredos: R$ 34,10 \n ")
+          escreva(" Harry Potter e o Prisioneiro de Azkaban: R$ 29,90 \n")
+          escreva(" Harry Potter e o Cálice de Fogo: R$ 26,90 \n")
+          escreva(" Harry Potter e a Ordem da Fênix: R$ 50,00 \n")
+          escreva(" Harry Potter e o Príncipe misterioso: R$ 26,90 \n")
+          escreva(" Fez com que o total desse R$194,70. " )
+          
+          
+		
+		
+	}
+}
