@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+    real CENTIMETROS 
+    real METROS  
+
+    escreva("Digite uma quantidade em metros: ")
+    leia(METROS)
+    escreva("A medida em centimetros é: ",METROS*100 "!!!")
+  }
+}
