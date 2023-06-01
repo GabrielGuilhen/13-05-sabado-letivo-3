@@ -1,0 +1,9 @@
+cadeia mae = Tess
+    cadeia filha = Anna
+
+    auxiliar1 = Tess
+    auxiliar2 = mae
+    mae = filha
+    filha = auxiliar1
+    escreva("Valor da Mãe após a troca: "mae)
+    escreva("Valor da filha após a troca: "filha)
