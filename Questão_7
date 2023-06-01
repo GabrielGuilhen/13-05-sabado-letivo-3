@@ -1,0 +1,19 @@
+programa {
+  funcao inicio() {
+    real economia_reais
+    real preco_ps5_dolares = 1300
+    real livrohp=50
+     
+
+    escreva("Escreva o valor da sua economia em reais: ")
+    leia(economia_reais)
+    escreva("Falta ", 1300-economia_reais/5, " dolares para comprar o PS5; \n")
+    escreva("Falta ", 1300*5-economia_reais, " reais para comprar o PS5; \n")
+    escreva("Com o mesmo valor que você têm, dá para comprar ",economia_reais/livrohp, " livros." )
+
+
+
+
+
+  }
+}
