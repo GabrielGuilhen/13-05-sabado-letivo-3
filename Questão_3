@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    cadeia mae = "Tess"
+    cadeia filha = "Anna"
+    
+
+    escreva("Novo valor de Mãe: ", filha ,"\n")
+    escreva("Novo valor de filha: ", mae )
+    
+  }
+}
